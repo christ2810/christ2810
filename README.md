@@ -1,16 +1,14 @@
-## Hi there 👋
+## Salut 👋
 
-<!--
-**christ2810/christ2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Christopher, passionné par le développement, la data et l'intelligence artificielle.
 
-Here are some ideas to get you started:
+- 🔭 Je travaille actuellement sur des projets en machine learning et analyse de données médicales  
+- 🌱 J'approfondis mes connaissances en IA, modélisation et développement web (Django)  
+- 👯 Je suis ouvert à collaborer sur des projets innovants liés à la data ou à l’IA  
+- 💬 Tu peux me parler de Python, machine learning, data science ou développement web  
+- 📫 Me contacter : christjean514@gmail.com  
+- ⚡ Fun fact : J’aime transformer des données complexes en solutions concrètes  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Toujours en train d’apprendre, construire et m’améliorer.
