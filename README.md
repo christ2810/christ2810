@@ -41,7 +41,7 @@
   <a href="mailto:christjean514@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="linkedin.com/in/christopher-jean-8a8038340">
+  <a href="[linkedin.com/in/christopher-jean-8a8038340](https://www.linkedin.com/in/christopher-jean-8a8038340/?skipRedirect=true)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
