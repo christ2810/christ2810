@@ -1,57 +1,59 @@
-<h1 align="center">Salut 👋, moi c'est Christopher</h1>
-<h3 align="center">💻 Passionné par l'IA, la data et le développement</h3>
+<h1 align="center">Christopher Jean 👋</h1>
+<h3 align="center">💻 Data & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  🚀 Toujours en train de build, apprendre et optimiser
+  🚀 Construire des modèles intelligents, pas juste des prédictions
 </p>
 
 ---
 
-### 🧠 À propos de moi
+## 🧠 À propos de moi
 
-- 🔭 Je travaille sur des projets en **Machine Learning** et **analyse de données médicales**
-- 🌱 J’approfondis mes compétences en **IA**, **modélisation avancée** et **Django**
-- 🧪 Je m’intéresse à l’utilisation de la data pour résoudre des problèmes réels (notamment en santé)
-- 👯 Ouvert aux collaborations sur des projets **data / IA / backend**
+- 🔭 Je travaille sur des projets en **Machine Learning** et **analyse de données**
+- 🌱 J’approfondis mes compétences en **IA, modélisation et développement backend (Django)**
+- 🧪 J’aime appliquer la data et l’IA à **différents types de problèmes concrets**
+- 👯 Ouvert à collaborer sur des projets **data / IA / backend**
 - 💬 Ask me about **Python, ML, Data Science, Django**
-- ⚡ Fun fact : Je préfère comprendre un modèle que juste l’utiliser
+- ⚡ Philosophie : *comprendre > utiliser*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack (core)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,js,html,css,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,django,tensorflow,pytorch,sklearn,docker,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-blue" />
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Plotly-orange" />
+  <img src="https://img.shields.io/badge/ML-Clustering%20%7C%20Classification%20%7C%20DL-green" />
 </p>
 
 ---
 
-### 📊 Stats GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=christ2810&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ2810&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=christ2810&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christ2810&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Me contacter
+## 📫 Me contacter
 
 <p align="center">
   <a href="mailto:christjean514@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[linkedin.com/in/christopher-jean-8a8038340](https://www.linkedin.com/in/christopher-jean-8a8038340/?skipRedirect=true)">
+  <a href="https://linkedin.com/in/christopher-jean-8a8038340">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🔥 Dev Quote
+## 🔥 Dev Quote
 
-> "Un modèle intelligent ne prédit pas seulement, il s’adapte."
-
----
-
-⭐ *N’hésite pas à explorer mes projets et à me contacter !*
+> "Un modèle utile est celui qui comprend le problème, pas seulement les données."
