@@ -1,8 +1,8 @@
-<h1 align="center">Christopher Jean 👋</h1>
-<h3 align="center">💻 Data & Machine Learning Enthusiast</h3>
+<h1 align="center">Christopher Jean </h1>
+<h3 align="center"> Data & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  🚀 Construire des modèles intelligents, pas juste des prédictions
+   Construire des modèles intelligents, pas juste des prédictions
 </p>
 
 ---
